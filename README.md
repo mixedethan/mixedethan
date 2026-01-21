@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there! 👋🏾
 
-<!--
-**mixedethan/mixedethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Ethan, a data scientist based out of South Florida. I have a Master of Science in Information Systems with a specialization in Data Science, and I am also a former Division I athlete 🏈🐊.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building end-to-end machine learning pipelines, predictive models, and converting raw metrics into actionable competitive advantages.
+
+My main tech stack includes Python, SQL, and Tableau.
+
+---
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/ethan---wilson/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://public.tableau.com/app/profile/ethmwn">
+    <img src="https://img.shields.io/badge/Tableau_Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ethmwn/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+</div>
+
+---
