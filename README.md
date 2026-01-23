@@ -9,7 +9,7 @@ I spend my time building end-to-end machine learning pipelines, predictive model
 ---
 
 
-Feel free to check out my links and portfolio below.
+Feel free to check out my links and portfolios below.
 
 
 
