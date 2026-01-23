@@ -1,4 +1,4 @@
-## Hey there 👋
+## What's up 👋
 
 I'm Ethan, a data scientist and recent graduate from South Florida. 
 
