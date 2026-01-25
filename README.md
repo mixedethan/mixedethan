@@ -2,7 +2,7 @@
 
 I'm Ethan, a data scientist and recent graduate from South Florida. 
 
-I have a Master of Science in Information Systems with a specialization in Data Science, and I am also a former Division I athlete 🏈🐊.
+I have a Master of Science in Information Systems with a specialization in Data Science, and I am also a former Division I athlete (Go Gators🏈🐊).
 
 I spend my time building end-to-end machine learning pipelines, predictive models, and solutions that convert raw metrics into actionable competitive advantages.
 
