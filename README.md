@@ -1,8 +1,14 @@
-I'm Ethan, a data scientist and recent graduate from South Florida. 
+Thanks for stopping by, I'm Ethan.
 
-I have a Master of Science in Information Systems with a specialization in Data Science, and I am also a former Division I athlete (Go Gators🏈🐊).
+I'm a data scientist/analyst from South Florida. 
 
-I spend my time developing end-to-end machine learning pipelines, predictive models, and solutions that convert raw metrics into actionable competitive advantages.
+I have a Master of Science in Information Systems with a specialization in Data Science, and I am also a former Division I athlete.
+
+Right now I'm interested in sports analytics, NLP, and deploying models people can actually use. Feel free to check out my work.
+
+<div align="center">
+  <img src="assets/gators.gif" alt="Florida Gators" width="300">
+</div>
 
 ---
 
