@@ -7,7 +7,7 @@ I have a Master of Science in Information Systems with a specialization in Data 
 Right now I'm interested in sports analytics, NLP, and deploying models people can actually use. Feel free to check out my work.
 
 <div align="center">
-  <img src="assets/gators.gif" alt="Florida Gators" width="300">
+  <img src="assets/gatorclap.gif" alt="Florida Gators" width="300">
 </div>
 
 ---
