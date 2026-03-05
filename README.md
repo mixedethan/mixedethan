@@ -1,6 +1,4 @@
-Thanks for stopping by, I'm Ethan.
-
-I'm a data scientist/analyst from South Florida. 
+I'm Ethan, a data scientist/analyst from South Florida. 
 
 I have a Master of Science in Information Systems with a specialization in Data Science, and I am also a former Division I athlete.
 
