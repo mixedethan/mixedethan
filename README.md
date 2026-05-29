@@ -1,17 +1,10 @@
-What's up, I'm Ethan.
+What's up, I'm Ethan, welcome to my page.
 
-I have a Master of Science in Information Systems with a specialization in Data Science, and I am also a former Division I athlete.
-
-Right now I'm interested in sports analytics, NLP, and deploying models people can actually use to make a difference. Feel free to check out my work.
-
-<div align="center">
-  <img src="assets/gatorclap.gif" alt="Florida Gators" width="300">
-</div>
 
 ---
 
 
-Feel free to check out my links and portfolios below.
+Check out my links and portfolios below.
 
 
 
